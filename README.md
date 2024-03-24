@@ -4,4 +4,7 @@
 * Users can see how different products look on them in real-time without physically wearing them.
 
 
-         ![System_VTON_0 1](https://github.com/Mrudula274/Virtual-Try-On-System/assets/121959719/ddf88061-e146-4a97-8e6a-281f8552b777)
+<p align="center">
+  <img src="https://github.com/Mrudula274/Virtual-Try-On-System/assets/121959719/50830dd8-64d0-4acb-8290-66d89b3c046d" alt="Sublime's custom image"/>
+</p>
+
